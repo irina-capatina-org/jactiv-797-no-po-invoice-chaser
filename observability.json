@@ -46,10 +46,11 @@
       "run": 36620069151
     },
     "Production": {
-      "status": "in-review",
-      "updatedAt": "2026-09-29T19:35:41Z",
+      "status": "in-progress",
+      "updatedAt": "2026-09-29T19:36:27Z",
       "decidedBy": "human",
-      "task": "Release PR open for approval"
+      "task": "Deploying",
+      "run": 36620408454
     }
   },
   "documents": {
