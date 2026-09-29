@@ -15,8 +15,8 @@
       "story": "JACTIV-797"
     },
     "Architecture": {
-      "status": "in-review",
-      "updatedAt": "2026-09-29T19:27:31Z",
+      "status": "done",
+      "updatedAt": "2026-09-29T19:27:39Z",
       "task": "Determining architecture",
       "run": 36618952251,
       "decidedBy": "auto",
